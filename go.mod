@@ -1,4 +1,4 @@
-module github.com/swaggo/echo-swagger
+module github.com/DataInCube/echo-swagger
 
 go 1.17
 
